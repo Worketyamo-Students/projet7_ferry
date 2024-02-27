@@ -21,6 +21,7 @@ tailwind.config = {
           bleu_triangle:'#0369A1',
           session3bg:'#0F172A',
           session3text:'#E2E8F0',
+          white:'#FFFFFF',
 
                },
          dropShadow: {
