@@ -22,6 +22,7 @@ tailwind.config = {
           session3bg:'#0F172A',
           session3text:'#E2E8F0',
           white:'#FFFFFF',
+          Amber200:'#FDE68A',
 
                },
          dropShadow: {
